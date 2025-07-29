@@ -1,1 +1,1 @@
-# Project_S2
+# Project : Tic-Tac-Toe game using C++ on Linux
